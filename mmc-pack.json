@@ -28,7 +28,7 @@
                     "uid": "com.fox2code.foxloader"
                 }
             ],
-            "cachedVersion": "no-op",
+            "cachedVersion": "b1.7.3",
             "disabled": true,
             "uid": "net.minecraft",
             "version": "no-op"
@@ -44,6 +44,11 @@
             "disabled": true,
             "uid": "net.minecraftforge",
             "version": "no-op"
+        },
+        {
+            "cachedName": "Modrinth support (fake treat this instance as fabric)",
+            "cachedVersion": "no-op",
+            "uid": "net.fabricmc.fabric-loader"
         }
     ],
     "formatVersion": 1

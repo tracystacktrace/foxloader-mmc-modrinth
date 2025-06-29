@@ -1,0 +1,6 @@
+{
+    "formatVersion": 1,
+    "name": "Modrinth support (fake treat this instance as fabric)",
+    "uid": "net.fabricmc.fabric-loader",
+    "version": "no-op"
+}
