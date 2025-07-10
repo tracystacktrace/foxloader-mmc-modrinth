@@ -13,6 +13,6 @@ Several changes are made to make this work:
 
 Just grab one from `Releases` tab.
 
-Or... if you want the fresh release (why?), then:
+Or...
 
 Click at a big green button with `Code` label on it (in this page), and then select `Download ZIP`. Then simply import the downloaded `.zip` file as multimc/prismlauncher instance.

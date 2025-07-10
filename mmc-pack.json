@@ -16,10 +16,10 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "cachedVersion": "ReIndev-2.9-FoxLoader-2.0-alpha22",
+            "cachedVersion": "ReIndev-2.9-FoxLoader-2.0-alpha34",
             "important": true,
             "uid": "com.fox2code.foxloader",
-            "version": "ReIndev-2.9-FoxLoader-2.0-alpha22"
+            "version": "ReIndev-2.9-FoxLoader-2.0-alpha34"
         },
         {
             "cachedName": "Workaround to prevent MultiMC Crash",

@@ -24,9 +24,9 @@
     ],
     "formatVersion": 1,
     "mainJar": {
-        "MMC-displayname": "foxloader-2.0-alpha22",
+        "MMC-displayname": "foxloader-2.0-alpha34",
         "MMC-hint": "local",
-        "name": "custom:foxloader:2.0-alpha22"
+        "name": "custom:foxloader:2.0-alpha34"
     },
     "name": "FoxLoader",
     "requires": [
@@ -39,5 +39,5 @@
     "minecraftArguments": "${auth_player_name} ${auth_access_token} --gameDir ${game_directory}",
     "type": "old_beta",
     "uid": "com.fox2code.foxloader",
-    "version": "ReIndev-2.9-FoxLoader-2.0-alpha22"
+    "version": "ReIndev-2.9-FoxLoader-2.0-alpha34"
 }
